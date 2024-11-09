@@ -8,7 +8,7 @@ This project automates the collection and analysis of LinkedIn job data specific
   
 # Tools Used
 - Web Scraping: Selenium
-- Data Analysis: Pandas
+- Data Analysis: Pandas, Matplotlib, Seaborn
 - Data Visualization: Power BI
 
 # Results
