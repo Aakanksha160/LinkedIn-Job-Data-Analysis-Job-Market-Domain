@@ -33,5 +33,6 @@ Use Power BI to visualize the findings or view the sample dashboard provided.
 1. linkedin_jobscraping.py: The Selenium script for web scraping job data from LinkedIn.
 2. job_offers.csv: Sample CSV file of collected LinkedIn job data.
 3. data_cleaning_and_EDA.ipynb: Jupyter notebook for data analysis and visualizations using Pandas.
-4. linkedin job analysis.pbix: Power BI dashboard file with visualizations of job market insights.
+4. final_data.csv: Csv file after cleaning and to create dashboard from this dataset.
+5. linkedin job analysis.pbix: Power BI dashboard file with visualizations of job market insights.
 
