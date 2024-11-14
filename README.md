@@ -17,8 +17,9 @@ This project automates the collection and analysis of LinkedIn job data specific
 
 # Installation and Usage
 1. Clone the Repository:
-````bash
-git clone https://github.com/Aakanksha160/LinkedIn-Job-Data-Analysis-Job-Market-Domain.git
+   ```bash
+   git clone https://github.com/Aakanksha160/LinkedIn-Job-Data-Analysis-Job-Market-Domain.git
+
 
 2. Set Up Selenium and ChromeDriver:
 Ensure you have the ChromeDriver installed and the path added to your Selenium configuration.
